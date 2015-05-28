@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomText xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CustomText>
+    <Id>Fails</Id>
+    <Text>Ошибки</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Anime</Id>
+    <Text>Аниме</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Cats</Id>
+    <Text>Коты</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Comedy</Id>
+    <Text>Юмор</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ConspiraryTheory</Id>
+    <Text>Теория Заговора</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CreepyPasta</Id>
+    <Text>Страшные истории</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Gaming</Id>
+    <Text>Игры</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ShoppingHaul</Id>
+    <Text>Прибыльная торговля</Text>
+  </CustomText>
+  <CustomText>
+    <Id>HowTo</Id>
+    <Text>Обучающий контент</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Movies</Id>
+    <Text>Кино</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MusicVideo</Id>
+    <Text>Музыкальные видео (Клипы) </Text>
+  </CustomText>
+  <CustomText>
+    <Id>NonProfit</Id>
+    <Text>Своя тема</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Sports</Id>
+    <Text>Спорт</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TheWeirdSide</Id>
+    <Text>Паранормальное</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Technology</Id>
+    <Text>Technology</Text>
+  </CustomText>
+  <CustomText>
+    <Id>UkuleleCover</Id>
+    <Text>COVERы на известную музыку</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Vlog</Id>
+    <Text>ВЛОГ</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Ok</Id>
+    <Text>ОК</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Cancel</Id>
+    <Text>Отменить</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SaveFail</Id>
+    <Text>Что-то пошло не так... Извините! Сохранение не прошло. </Text>
+  </CustomText>
+  <CustomText>
+    <Id>LoadFail</Id>
+    <Text>Что-то пошло не так... Извините! Сохранение не загрузилось.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ChannelSuspended</Id>
+    <Text>Канал '{0}' был заблокирован в связи с нарушением условий видеохостинга!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ComputerCrash</Id>
+    <Text>Ваш компьютер сгорел вместе со всеми незагруженными роликами. :C</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CostOfLivingIncrease</Id>
+    <Text>Экономика страны в упадке! Ваш прожиточный минимум увеличен.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Fired</Id>
+    <Text>Начальник не доволен вами. Вы уволены с работы!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LoseSubscribers</Id>
+    <Text>Группа троллей в соц. сети выложила "Грязную" информацию о вас. Вы потеряли {0} подписчиков!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>WorkOvertime</Id>
+    <Text>Ммм, да. Похоже придется работать сверхурочно что бы продвигатся дальше!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoSuspended</Id>
+    <Text>Видеоролик '{0}' был удален с канала в связи с подозрением на нарушение авторских прав.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SpareChange</Id>
+    <Text>You searched through your sofa 
+and found {0} change</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Promoted</Id>
+    <Text>За ваш профессионализм вы были повышены в должности! Вы получаете больше денег от работы.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RobotRising</Id>
+    <Text>Конкуренты в ярости!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>BeautyContest</Id>
+    <Text>Вы выйграли {0} в конкурсе красоты! ;)</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ChannelSuspensionLifted</Id>
+    <Text>Канал '{0}' поднимает рейтинги в топе!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CostOfLivingDecreased</Id>
+    <Text>Экономика пришла в норму.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>FreeStudy</Id>
+    <Text>Вам дали стипендию {0}!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>GainSubscribers</Id>
+    <Text>Твои обзоры были размещены на популярном сайте! Вы получили {0} подписчиков!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoSuspensionLifted</Id>
+    <Text>Видеоролик '{0}' становится популярным!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RandomEvent</Id>
+    <Text>Случайное событие</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyAudienceAnalysis1</Id>
+    <Text>Изучение 'Технология Аттрибуции Видеороликов I'!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyAudienceAnalysis2</Id>
+    <Text>Изучение 'Технология Аттрибуции Видеороликов II'!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyPostProduction1</Id>
+    <Text>Изучение 'Пост-продукция I'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyPostProduction2</Id>
+    <Text>Изучение 'Пост-продукция II'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyPostProduction3</Id>
+    <Text>Изучение 'Пост-продукция III'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyProduction1</Id>
+    <Text>Изучение 'Производство I'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyProduction2</Id>
+    <Text>Изучение 'Производство II'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyProduction3</Id>
+    <Text>Изучение 'Производство III'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyQualityAnalysis</Id>
+    <Text>Изучение 'Анализ качества'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudyStatisticalAnalysis</Id>
+    <Text>Изучение 'Статический анализ'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MandatoryBowToRobotRulers</Id>
+    <Text>Конкуренты диктуют свои правила.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>EditVideoTask</Id>
+    <Text>'{0}' после редактирования</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Job</Id>
+    <Text>Работа</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ShootVideoTask</Id>
+    <Text>'{0}' снято видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CatsAttribute</Id>
+    <Text>Своя 'Изюминка'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CatsAttributeDescription</Id>
+    <Text>Незначительно увеличилось качество видеоролика.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CopycatAttribute</Id>
+    <Text>Рассказать друзьям</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CopycatAttributeDescription</Id>
+    <Text>{0} бесплатных начальных просмотров.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>FanboyBaitAttribute</Id>
+    <Text>Любители качества</Text>
+  </CustomText>
+  <CustomText>
+    <Id>FanboyBaitAttributeDescription</Id>
+    <Text>Если качество видео состовляет более 75%, то  действующие подписчики не будут отписываться!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>GenreBusterAttribute</Id>
+    <Text>Помощь в жанрах</Text>
+  </CustomText>
+  <CustomText>
+    <Id>GenreBusterAttributeDescription</Id>
+    <Text>Категория видеоролика  менее важна как лайки.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>HypnoticAttribute</Id>
+    <Text>Эксклюзив</Text>
+  </CustomText>
+  <CustomText>
+    <Id>HypnoticAttributeDescription</Id>
+    <Text>Высокий шанс подписок!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LearnFromMistakesAttribute</Id>
+    <Text>Учиться на ошибках</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LearnFromMistakesAttributeDescription</Id>
+    <Text>Ваши умения незначительно увеличились благодоря качеству ролика</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MemeticAttribute</Id>
+    <Text>Мэйнстрим</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MemeticAttributeDescription</Id>
+    <Text>Высокий шанс популяризации.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ProductPlacementAttribute</Id>
+    <Text>Реклама в ролике</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ProductPlacementAttributeDescription</Id>
+    <Text>Повышается заработок от рекламы за просмотры.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SecondTimeAttribute</Id>
+    <Text>Может, еще раз?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SecondTimeAttributeDescription</Id>
+    <Text>Видеоролик можно просматривать несколько раз.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SoBadAttribute</Id>
+    <Text>Ваше мнение</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SoBadAttributeDescription</Id>
+    <Text>Шанс получения дизлайков увеличивается. </Text>
+  </CustomText>
+  <CustomText>
+    <Id>CrowdFundingAttribute</Id>
+    <Text>Совместная работа</Text>
+  </CustomText>
+  <CustomText>
+    <Id>CrowdFundingAttributeDescription</Id>
+    <Text>Взамен вы получите {0} подписок</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AboveBoardAttribute</Id>
+    <Text>Удаление</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AboveBoardAttributeDescription</Id>
+    <Text>Видеоролик не может быть приостановлен</Text>
+  </CustomText>
+  <CustomText>
+    <Id>UnreleasedVideos</Id>
+    <Text>Невыпущенные видеоролики</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ContinueGame</Id>
+    <Text>Продолжить игру</Text>
+  </CustomText>
+  <CustomText>
+    <Id>NewGame</Id>
+    <Text>Новая игра</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Tutorial</Id>
+    <Text>Обучение</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Credits</Id>
+    <Text>Разработчики</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip1</Id>
+    <Text>Нажмите на миниатюру видеоролика для просмотра</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip2</Id>
+    <Text>Наведите курсор на аттрибуты, что бы увидеть описание</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip3</Id>
+    <Text>Если вы изучали технологии видеообработки, вы получите больше очков</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip4</Id>
+    <Text>'Испытание' режим с случайными событиями</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip5</Id>
+    <Text>Покупайте просмотры, что бы быстрее получить подписчиков</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip6</Id>
+    <Text>Чем больше подписчиков, тем больше платят за просмотры</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip7</Id>
+    <Text>Чем больше рекламы на канале, тем меньше шанс получить подписчиков</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TitlePageTip8</Id>
+    <Text>Что бы бросить работу, нажмите на нее в меню 'План дня'</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Tip</Id>
+    <Text>СОВЕТ</Text>
+  </CustomText>
+  <CustomText>
+    <Id>WhatALoser</Id>
+    <Text>Что за неудачник</Text>
+  </CustomText>
+  <CustomText>
+    <Id>OutOfMoney</Id>
+    <Text>У вас кончились деньги!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Death</Id>
+    <Text>Смерть :C</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RobotDeath</Id>
+    <Text>Вы умерли в схватке с роботом. Официальная причина смерти не указана.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Confirm</Id>
+    <Text>Согласен(а)</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LeaveGame</Id>
+    <Text>Выйти из игры?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>OverwriteSave</Id>
+    <Text>Перезаписать сохранение</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SaveExists</Id>
+    <Text>Сохранение уже есть! Перезаписать его?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StartDay</Id>
+    <Text>Начать день</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Help</Id>
+    <Text>Помощь</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Exit</Id>
+    <Text>Выход</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SaveGame</Id>
+    <Text>Сохранение</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingValueHeader</Id>
+    <Text>Вы отсутствуете?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingName</Id>
+    <Text>Введите ник</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingCategory</Id>
+    <Text>Выбрать категорию</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingChannel</Id>
+    <Text>Выбрать канал</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingStrategy</Id>
+    <Text>Выбрать тактику</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingVideo</Id>
+    <Text>Выбрать видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingUserName</Id>
+    <Text>Ввести никнейм</Text>
+  </CustomText>
+  <CustomText>
+    <Id>MissingToken</Id>
+    <Text>Введите токен</Text>
+  </CustomText>
+  <CustomText>
+    <Id>PerView</Id>
+    <Text>Предпросмотр</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AddChannel</Id>
+    <Text>Создать канал</Text>
+  </CustomText>
+  <CustomText>
+    <Id>EditChannel</Id>
+    <Text>Редактировать канал</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AdvertisingStrategy</Id>
+    <Text>Реклама</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Name</Id>
+    <Text>Название</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Low</Id>
+    <Text>Мало</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Normal</Id>
+    <Text>Бывает изредка</Text>
+  </CustomText>
+  <CustomText>
+    <Id>High</Id>
+    <Text>Много</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Aggressive</Id>
+    <Text>ОЧЕНЬ много</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ShootVideo</Id>
+    <Text>Добавить видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>EditVideo</Id>
+    <Text>Монтировать видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Study</Id>
+    <Text>Изучение</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TooSoon</Id>
+    <Text>Поторопись</Text>
+  </CustomText>
+  <CustomText>
+    <Id>NoVideosToEdit</Id>
+    <Text>Нет видео для монтажа!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>PointsLeft</Id>
+    <Text>Очков осталось</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LowCashHeader</Id>
+    <Text>Как ты собираешься платить за это?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LowCashMessage</Id>
+    <Text>Не хватает денег!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Hours</Id>
+    <Text>Часы</Text>
+  </CustomText>
+  <CustomText>
+    <Id>HoursLeft</Id>
+    <Text>Часов осталось</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AddVideo</Id>
+    <Text>Загрузить видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Attributes</Id>
+    <Text>Содержание</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Cost</Id>
+    <Text>Расходы</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Category</Id>
+    <Text>Категория</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Suspended</Id>
+    <Text>Подписчики</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Video</Id>
+    <Text>Видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Videos</Id>
+    <Text>Видеоролики</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AddTask</Id>
+    <Text>Добавить задачу</Text>
+  </CustomText>
+  <CustomText>
+    <Id>QuitJobHeader</Id>
+    <Text>Уволиться с работы</Text>
+  </CustomText>
+  <CustomText>
+    <Id>QuitJobText</Id>
+    <Text>Вы уволитесь с работы. Вы уверены?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RiseUp</Id>
+    <Text>Встань!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RebellionCashRequired</Id>
+    <Text>Вам нужно {0} что бы противостоять ИИ мастеру!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RebellionStart</Id>
+    <Text>Делая это вы начнете ввостание против ИИ, шанс {0}. Это может привести к смерти. 
+
+вы уверены?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Freedom</Id>
+    <Text>Свобода!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RebellionSuccess</Id>
+    <Text>Вы нашли переключатель и выключили ИИ. Это было легко!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RemoveTask</Id>
+    <Text>Удалить задачу</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AreYouSure</Id>
+    <Text>Вы уверены?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>NoRefunds</Id>
+    <Text>Без возврата!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>FetchingScores</Id>
+    <Text>Подсчет очков...</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Casual</Id>
+    <Text>Обычная</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Challenge</Id>
+    <Text>Испытания</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Failure</Id>
+    <Text>Неудачно</Text>
+  </CustomText>
+  <CustomText>
+    <Id>HoursToComplete</Id>
+    <Text>Часов до завершения</Text>
+  </CustomText>
+  <CustomText>
+    <Id>PrerequisitesNotMet</Id>
+    <Text>Еще не закончил!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AlreadyCompleted</Id>
+    <Text>Уже завершено</Text>
+  </CustomText>
+  <CustomText>
+    <Id>AlreadyEnrolled</Id>
+    <Text>Уже поступил</Text>
+  </CustomText>
+  <CustomText>
+    <Id>StudySelection</Id>
+    <Text>Изучение выбрано</Text>
+  </CustomText>
+  <CustomText>
+    <Id>UploadVideo</Id>
+    <Text>Залить видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>FetchNewImage</Id>
+    <Text>Выбрать новое изображение</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Image</Id>
+    <Text>Изображение</Text>
+  </CustomText>
+  <CustomText>
+    <Id>BuyViews</Id>
+    <Text>Покупка просмотров</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Channel</Id>
+    <Text>Канал</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Views</Id>
+    <Text>Просмотры</Text>
+  </CustomText>
+  <CustomText>
+    <Id>None</Id>
+    <Text>Отсутствует</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Comments</Id>
+    <Text>Комментарии</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Quality</Id>
+    <Text>Качество</Text>
+  </CustomText>
+  <CustomText>
+    <Id>NotApplicable</Id>
+    <Text>Без содержания</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Likes</Id>
+    <Text>Лайки</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Dislikes</Id>
+    <Text>Дизлайки</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Subscribers</Id>
+    <Text>Подписчики</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ChannelIncome</Id>
+    <Text>Доход от канала</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Delete</Id>
+    <Text>Удалить</Text>
+  </CustomText>
+  <CustomText>
+    <Id>DeleteVideo</Id>
+    <Text>Ты уверен что хочешь удалить свое видео?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>WhereTo</Id>
+    <Text>Где?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ChannelNeeded</Id>
+    <Text>Создай канал что бы залить свой ролик!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoComments</Id>
+    <Text>Комментарии к видеоролику</Text>
+  </CustomText>
+  <CustomText>
+    <Id>TopComments</Id>
+    <Text>Лучшие комментарии</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoManager</Id>
+    <Text>Менеджер видео</Text>
+  </CustomText>
+  <CustomText>
+    <Id>DailyPlanner</Id>
+    <Text>План дня</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Stats</Id>
+    <Text>Статы</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SubscriberHistory</Id>
+    <Text>История подписок</Text>
+  </CustomText>
+  <CustomText>
+    <Id>DailyIncome</Id>
+    <Text>Дневной график</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoCameraIStoreItem</Id>
+    <Text>Общий видеокамеры XYZ-85</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoCameraIStoreItemDescription</Id>
+    <Text>Это лучше, чем веб-камеры ...</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoCameraIIStoreItem</Id>
+    <Text>Супер видеокамера Pro Deluxe HD</Text>
+  </CustomText>
+  <CustomText>
+    <Id>VideoCameraIIStoreItemDescription</Id>
+    <Text>Лучший видеокамера на рынке! Используется всех плюсах!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>EditingSoftwareIStoreItem</Id>
+    <Text>Правка-Me Видео директор 4</Text>
+  </CustomText>
+  <CustomText>
+    <Id>EditingSoftwareIStoreItemDescription</Id>
+    <Text>Лучше, чем тот, что поставляется бесплатно с моей ОС...</Text>
+  </CustomText>
+  <CustomText>
+    <Id>EditingSoftwareIIStoreItem</Id>
+    <Text>Мега-директор Ультра Deluxe Edition 12</Text>
+  </CustomText>
+  <CustomText>
+    <Id>EditingSoftwareIIStoreItemDescription</Id>
+    <Text>В конечном счете в видеомонтажа! 20 различных звезды переходы на выбор!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LawyerStoreItem</Id>
+    <Text>Wright &amp; Wrong Адвокаты</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LawyerStoreItemDescription</Id>
+    <Text>Для всех ваших правовых потребностей! Мы будем разблокировать подвешенные видео или канал для небольшую плату {0}!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ConsultantStoreItem</Id>
+    <Text>Bob Boskins - консультант</Text>
+  </CustomText>
+  <CustomText>
+    <Id>ConsultantStoreItemDescription</Id>
+    <Text>С моим руководством специалиста, я сделаю вам TubeStar! Я также взимать {0} за видео!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Buy</Id>
+    <Text>купить</Text>
+  </CustomText>
+  <CustomText>
+    <Id>OnlineStore</Id>
+    <Text>Интернет-магазин</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SuspendedHireLawyer</Id>
+    <Text>(Нажмите, чтобы нанять адвоката)</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RemoveVideoSuspension</Id>
+    <Text>Вы хотите, чтобы оплатить наш сбор в {0} поднять подвеску это видео в?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>RemoveChannelSuspension</Id>
+    <Text>Вы хотите, чтобы оплатить наш сбор в {0} поднять подвеску этого канала?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LoanStoreItem</Id>
+    <Text>Кредиты Шейлока</Text>
+  </CustomText>
+  <CustomText>
+    <Id>LoanStoreItemDescription</Id>
+    <Text>Немедленное выплата {0} гарантируется! Звоните сегодня! 
+Отдавайте {1} в день. {2}% акций.</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Edit</Id>
+    <Text>редактировать</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Save</Id>
+    <Text>экономить</Text>
+  </CustomText>
+  <CustomText>
+    <Id>BornToRule</Id>
+    <Text>Родился вести</Text>
+  </CustomText>
+  <CustomText>
+    <Id>BuyItem</Id>
+    <Text>Купить за {0}?</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Next</Id>
+    <Text>Следующая</Text>
+  </CustomText>
+  <CustomText>
+    <Id>SaveGameSuccess</Id>
+    <Text>Игра была успешно сохранены!</Text>
+  </CustomText>
+  <CustomText>
+    <Id>Community</Id>
+    <Text>Сообщество</Text>
+  </CustomText>
+</ArrayOfCustomText>
